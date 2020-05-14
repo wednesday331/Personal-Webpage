@@ -1,1 +1,21 @@
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Where am I from?</title>
+        <style>
+             {color:blue; text-align:center;}
+        </style> 
+    </head>
+    <body>
+        <h2>
+        These are the places I've lived in:
+        </h2>
+        <h3>
+          <ul>
+          <li>Japan
+          <li>India
+          <li>United States
+          </ul>
+        </h3>
+    </body>
+</html>
