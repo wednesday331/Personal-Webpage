@@ -4,8 +4,8 @@
         <title>Where am I from?</title>
         <style>
             #Japan {color:blue;}
-            #India {color:blue;}
-            #US {color:blue;}
+            #India {color:green;}
+            #US {color:red;}
             .country {font-weight: bold;}
         </style> 
     </head>
