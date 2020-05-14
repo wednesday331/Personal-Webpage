@@ -3,7 +3,7 @@
     <head>
         <title>Where am I from?</title>
         <style>
-             {color:blue; text-align:center;}
+            ul {color:blue; text-align:center;}
         </style> 
     </head>
     <body>
