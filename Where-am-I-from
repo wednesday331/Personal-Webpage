@@ -3,7 +3,10 @@
     <head>
         <title>Where am I from?</title>
         <style>
-            ul {color:blue; text-align:center;}
+            #Japan {color:blue;}
+            #India {color:blue;}
+            #US {color:blue;}
+            .country {font-weight: bold;}
         </style> 
     </head>
     <body>
@@ -13,9 +16,9 @@
         </h2>
         <ul>
         
-          <li>Japan
-          <li>India
-          <li>United States
+          <li id="Japan">I have lived in <span class="country">Japan </span>.
+          <li id="India">I have lived in <span class="country">India </span>.
+          <li id="US">I have lived in the <span class="country">United States </span>.
           
 </ul>
     </body>
