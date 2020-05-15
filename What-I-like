@@ -8,6 +8,7 @@
         </style> 
     </head>
     <body>
+    <h1>This is what I like:</h1>
     <table>
     <tr><td>CS50</td><td>food</td></tr>
 <tr><td>water</td><td>exercise</td></tr>    
