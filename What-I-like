@@ -10,6 +10,11 @@
           button {background-color: red}
           table, th, td {border: 1px solid black;}
 
+          /* Favourite colors  */
+
+          @media screen and (max-width: 75%) {body {background-color: green;}}
+          @media screen and (max-width: 50%) {body {background-color: blue;}}
+
         </style>
     </head>
 
@@ -27,8 +32,11 @@
         </tr>
       </table>
 
+      /* Favourite colors  */
+      <div> Adjust the screen width to view my favourite colors. </div>
+
       <!--Button-->
-      <button type="button">Back to the homepage!</button>
+      <button type="button"><a href="index.html">Back to the homepage!</a></button>
 
 
     </body>

@@ -5,6 +5,8 @@
         <style>
             .container {display:flex}
             .col3 {font-weight:bold}
+            button {background-color: red}
+
         </style>
     </head>
     <body>
@@ -26,7 +28,7 @@
         </div>
       </div>
 
-      <button type="button">Back to the homepage!</button>
+      <button type="button"><a href="index.html">Back to the homepage!</a></button>
 
     </body>
 
