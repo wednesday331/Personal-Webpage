@@ -1,1 +1,31 @@
-jhkhjkjj
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>What's on My Mind?</title>
+        <style>
+            .container {display:flex}
+            .col3 {font-weight:bold}
+        </style>
+    </head>
+    <body>
+
+    <h1>These are the things that are on my mind right now...</h1>
+
+    <!-- Bootstrap Grid Model that Describes my Website-->
+      <div class="container">
+        <div class="row">
+          <div class="col1">
+          Python
+          </div>
+          <div class="col2">
+          C++
+          </div>
+          <div class="col3">
+          Brian Yu
+          </div>
+        </div>
+      </div>
+
+    </body>
+
+</html>
