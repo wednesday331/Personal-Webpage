@@ -1,0 +1,21 @@
+li a, li a:hover, ul {
+  margin: 0;
+  padding: 0;
+  width: 25%;
+}
+
+ul {
+  list-style-type: none;
+  background-color: #d9e7ff;
+  height: 100%;
+  position: fixed;
+}
+
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+
+li a {
+  display: block;
+}
