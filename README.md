@@ -13,4 +13,4 @@ For the "Where I have been page", the places I have lived in are displayed in di
 ## What's on My Mind Page:
 Finally, for the "What's on My Mind" page, this is a page intending to demonstrate Bootstrap's grid model. The light blue grid spaces are evenly spaced out and as the window width is changed, the individual sections are readjusted as well to look better. Eventually when the width is small enough, it forms a column because it is displayed as a flexbox.
 
-*Hope you enjoy the page!*
+*Hope you enjoy the pages!*
